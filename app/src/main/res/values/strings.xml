@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FireWater</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="beacon_list_title">Lista dispositivi rilevati</string>
+    <string name="title_activity_beacons">BeaconsActivity</string>
+
+</resources>
